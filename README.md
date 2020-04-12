@@ -5,4 +5,4 @@
 A chatroom client
 
 ### Tags
-[Java, Application, Spring Boot App Client]
+[Java, Application]
