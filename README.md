@@ -2,7 +2,7 @@
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
-A chatroom client
+Chatroom client
 
 ### Tags
 [Java, Application]
